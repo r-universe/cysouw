@@ -5,3 +5,6 @@
 [submodule "qlcMatrix"]
 	path = qlcMatrix
 	url = https://github.com/cysouw/qlcmatrix
+[submodule "qlcVisualize"]
+	path = qlcVisualize
+	url = https://github.com/cysouw/qlcvisualize
